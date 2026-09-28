@@ -1,0 +1,10 @@
+Engineering_Zone,FE_Material,Hydraulic_Role,Parameter_Source,Verification_Status
+Q3al-II,Q3AL_II,Weak permeable layer,Engineering geological report,PENDING
+Q3al-IV1,Q3AL_IV1,Cover layer,Engineering geological report,PENDING
+Q3al-IV2,Q3AL_IV2,Cover layer,Engineering geological report,PENDING
+Q4al,Q4AL,Cover layer,Engineering geological report,PENDING
+Right bank strong unloaded rock,RB_ROCK_STRONG_UNLOADED,Equivalent continuum,PENDING,PENDING
+Right bank weak unloaded rock,RB_ROCK_WEAK_UNLOADED,Equivalent continuum,PENDING,PENDING
+Right bank deep unloaded rock,RB_ROCK_DEEP_UNLOADED,Equivalent continuum,PENDING,PENDING
+Right bank curtain,RIGHT_BANK_CURTAIN_MATERIAL,Anti-seepage structure,Design document,PENDING
+Concrete cutoff wall,P25_FANGSHENQIANG,Anti-seepage structure,Design document,PENDING

@@ -1,0 +1,8 @@
+Engineering_Object,Geological_Basis,Abaqus_Region,Material,Status
+Dam_body_gravel,Composite gravel dam zoning,TO_BE_MAPPED,M_DAM,Pending
+Riverbed_deep_cover_layer,Q3al_Q4al_alluvial_cover,TO_BE_MAPPED,M_COVER,Pending
+Left_bank_cover_layer,Terrace_cover_layer,TO_BE_MAPPED,M_LEFT_BANK,Pending
+Right_bank_unloading_rock,Unloading fractured rock zones,TO_BE_MAPPED,M_RIGHT_BANK,Pending
+Concrete_cutoff_wall,Dam foundation seepage barrier,TO_BE_CREATED,M_CUTOFF,Missing
+Geomembrane,Dam body anti-seepage layer,TO_BE_CREATED,M_MEMBRANE,Missing
+Right_bank_grouting_curtain,Foundation grouting barrier,TO_BE_CREATED,M_GROUT,Missing

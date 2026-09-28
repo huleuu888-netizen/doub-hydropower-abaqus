@@ -1,0 +1,29 @@
+Engineering_Region,Geologic_Unit,Current_V16_Element_Set,Current_V16_Section,Current_V16_Material,Current_V16_Permeability_Data,Current_Source_Traceability,Proposed_V16_1_Element_Set,Proposed_V16_1_Material,Engineering_Permeability_Basis,Closure_Status
+坝体排水体,F00,V16A_F00_ALL,V16A_F00_C3D8P,P25_PAISHUITI,"specific=9.81; 0.0225 0.0","inp 数值存在；原始来源和单位未注明",ESET_DRAINAGE_F00,M_DRAINAGE,现有值待查源并与设计值核对,待溯源
+反滤层,F01,V16A_F01_ALL,"V16A_F01_C3D6P;V16A_F01_C3D8P",P25_FANLV,"specific=9.81; 4.47e-05 0.0","inp 数值存在；原始来源和单位未注明",ESET_FILTER_F01,M_FILTER,现有值待查源并与设计值核对,待溯源
+坝壳砾石料,F02,V16A_F02_ALL,"V16A_F02_C3D6P;V16A_F02_C3D8P",P25_BAKESHALI,"specific=9.81; 0.000295 0.0","inp 数值存在；原始来源和单位未注明",ESET_DAM_SHELL_F02,M_DAM_SHELL,现有值待查源并与设计值核对,待溯源
+坝体排水体,F03,V16A_F03_ALL,V16A_F03_C3D8P,P25_PAISHUITI,"specific=9.81; 0.0225 0.0","inp 数值存在；原始来源和单位未注明",ESET_DRAINAGE_F03,M_DRAINAGE,现有值待查源并与设计值核对,待溯源
+坝壳砾石料,F06,V16A_F06_ALL,"V16A_F06_C3D6P;V16A_F06_C3D8P",P25_BAKESHALI,"specific=9.81; 0.000295 0.0","inp 数值存在；原始来源和单位未注明",ESET_DAM_SHELL_F06,M_DAM_SHELL,现有值待查源并与设计值核对,待溯源
+坝壳砾石料,F08,V16A_F08_ALL,"V16A_F08_C3D6P;V16A_F08_C3D8P",P25_BAKESHALI,"specific=9.81; 0.000295 0.0","inp 数值存在；原始来源和单位未注明",ESET_DAM_SHELL_F08,M_DAM_SHELL,现有值待查源并与设计值核对,待溯源
+主堆石区,F09,V16A_F09_ALL,"V16A_F09_C3D6P;V16A_F09_C3D8P",P25_WEIYANJITI,"specific=9.81; 0.00051 0.0","inp 数值存在；原始来源和单位未注明",ESET_MAIN_ROCKFILL_F09,M_MAIN_ROCKFILL,现有值待查源并与设计值核对,待溯源
+上游砾石填筑区,F10,V16A_F10_ALL,"V16A_F10_C3D6P;V16A_F10_C3D8P",P25_WEIYANSHALI,"specific=9.81; 0.000295 0.0","inp 数值存在；原始来源和单位未注明",ESET_UPSTREAM_GRAVEL_F10,M_UPSTREAM_GRAVEL,现有值待查源并与设计值核对,待溯源
+主堆石区,F11,V16A_F11_ALL,"V16A_F11_C3D6P;V16A_F11_C3D8P",P25_WEIYANJITI,"specific=9.81; 0.00051 0.0","inp 数值存在；原始来源和单位未注明",ESET_MAIN_ROCKFILL_F11,M_MAIN_ROCKFILL,现有值待查源并与设计值核对,待溯源
+不透水填料区,F12,V16A_F12_ALL,"V16A_F12_C3D6P;V16A_F12_C3D8P",P25_BIQILIAO,"specific=9.81; 5.1e-07 0.0","inp 数值存在；原始来源和单位未注明",ESET_IMPERMEABLE_FILL_F12,M_IMPERMEABLE_FILL,该坝体填料不是土工膜的替代证据,待溯源且不得替代土工膜
+左岸覆盖层,Q4del,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q4DEL_LEFT,M_Q4DEL,"Kd=2.33e-3 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸台地厚 6.00–48.80 m",待依据剖面建几何并确认单位换算
+河床表部覆盖层,Q4al-Sgr2,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q4AL_SGR2,M_Q4AL_SGR2,"Kd=2.33e-2 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；河床表部",待依据剖面建几何并确认单位换算
+左岸覆盖层,Q4al-Sgr1,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q4AL_SGR1,M_Q4AL_SGR1,"Kd=5.8e-3 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸台地",待依据剖面建几何并确认单位换算
+右岸覆盖层,Q3al-V,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_V,M_Q3AL_V,"Kd=4.46e-4 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；右岸台地厚 15–35 m",待依据剖面建几何并确认单位换算
+左岸覆盖层,Q3al-IV2,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_IV2,M_Q3AL_IV2,"Kd=2.35e-4 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸台地厚 1.14–13.90 m",待依据剖面建几何并确认单位换算
+左岸及河床覆盖层,Q3al-IV1,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_IV1,M_Q3AL_IV1,"Kd=5.48e-4 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸及河床厚 5.40–24.11 m",待依据剖面建几何并确认单位换算
+左岸及河床覆盖层,Q3al-III,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_III,M_Q3AL_III,"Kd=8.49e-3 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸及河床厚 6.35–16.13 m",待依据剖面建几何并确认单位换算
+左岸及河床覆盖层,Q3al-II,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_II,M_Q3AL_II,"Kd=5.89e-5 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；左岸及河床厚 9.25–16.92 m",待依据剖面建几何并确认单位换算
+左岸及河床覆盖层,Q3al-I,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q3AL_I,M_Q3AL_I,"Kd=1.14e-3 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；Q3al-I 与 Q2fgl-V 分界和取样存在混合说明",待核地层边界和材料取值
+深部覆盖层（范围待核）,Q2fgl-V,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q2FGL_V,M_Q2FGL_V,"Kd 汇总值 1.14e-3 cm/s；与 Q3al-I 混合取样/界面不清，不能视作独立验证",待工程确认后决定是否纳入
+深部覆盖层（范围待核）,Q2fgl-IV,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q2FGL_IV,M_Q2FGL_IV,"Kd=1.70e-4 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；厚 23.00–25.50 m",待依据剖面决定纳入并确认单位换算
+深部覆盖层（范围待核）,Q2fgl-III,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q2FGL_III,M_Q2FGL_III,"Kd=3.26e-5 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；厚 32.39–38.93 m",待依据剖面决定纳入并确认单位换算
+深部覆盖层（范围待核）,Q2fgl-II,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q2FGL_II,M_Q2FGL_II,"Kd=8.35e-5 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；厚 24.88–27.76 m",待依据剖面决定纳入并确认单位换算
+深部覆盖层（范围待核）,Q2fgl-I,不存在,不存在,不存在,无,V16.0 inp 无该地层且未赋材料,ESET_Q2FGL_I,M_Q2FGL_I,"Kd=2.50e-5 cm/s；本地工作区土体物理力学性质数据.docx 覆盖层汇总表（文件未在 GitHub main）；厚 64.98 m",待依据剖面决定纳入并确认单位换算
+右岸卸荷裂隙岩体,卸荷分带,不存在,不存在,不存在,无,V16.0 inp 无基岩分区；工程资料可区分卸荷级别但此处未有渗透率,ESET_RIGHT_BANK_UNLOAD,M_RIGHT_BANK_UNLOAD,"需卸荷裂隙岩体/压水试验或经批准设计参数；明确各向异性依据",缺渗透参数来源
+坝基防渗结构,混凝土防渗墙,不存在,不存在,不存在,无,V16.0 inp 无防渗墙集合或材料,ESET_CUTOFF_WALL,M_CUTOFF_WALL,"需防渗墙设计尺寸和混凝土渗透试验/设计指标",缺几何和参数来源
+坝体防渗结构,土工膜/等效低渗层,不存在,不存在,不存在,无,V16.0 inp 无土工膜集合或材料,ESET_GEOMEMBRANE,M_MEMBRANE,"需膜材渗透性能、厚度、连续范围及等效模型依据",缺几何和参数来源
+右岸坝基防渗结构,灌浆帷幕,不存在,不存在,不存在,无,V16.0 inp 无帷幕集合或材料,ESET_GROUT_CURTAIN,M_GROUT_CURTAIN,"需帷幕设计几何和灌浆验收/压水试验参数及单位换算依据",缺几何和参数来源
